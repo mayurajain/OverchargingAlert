@@ -24,7 +24,7 @@ How to setup this application to run everytime windows is loaded?
 Remember:This works untill the application cmd is open,please dont close it.
 
 Are you a .Net developer?Would like to contribute more for this application?
-Feel free to fork repo at 
+Feel free to fork repo at https://github.com/mayurajain/OverchargingAlert
 
  
 

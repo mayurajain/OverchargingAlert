@@ -35,7 +35,6 @@ namespace OverchargingAlert
                 string title = "Overcharging Alert!";
                 MessageBoxButtons buttons = MessageBoxButtons.OK;
                 DialogResult result = MessageBox.Show(message, title, buttons, MessageBoxIcon.Warning);
-                Console.WriteLine(isRunningOnBattery);
                 if (result == DialogResult.OK)
                 {
                     player.Stop();

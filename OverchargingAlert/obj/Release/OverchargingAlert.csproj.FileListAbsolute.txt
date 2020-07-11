@@ -10,3 +10,15 @@ C:\Users\mayur\source\repos\OverchargingAlert\OverchargingAlert\obj\Release\Over
 C:\Users\mayur\source\repos\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.csproj.CopyComplete
 C:\Users\mayur\source\repos\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.exe
 C:\Users\mayur\source\repos\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.pdb
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\NotificationTone.wav
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\OverchargingAlert.exe.config
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\OverchargingAlert.exe
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\OverchargingAlert.pdb
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\FluentScheduler.dll
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\FluentScheduler.pdb
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\bin\Release\FluentScheduler.xml
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.csprojAssemblyReference.cache
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.csproj.CopyComplete
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.exe
+C:\Users\mayur\Desktop\OverchargingAlert\OverchargingAlert\obj\Release\OverchargingAlert.pdb
